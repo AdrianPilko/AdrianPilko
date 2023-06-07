@@ -10,5 +10,9 @@
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), arduino, esp32 micro controllers
 - 😄 Pronouns: He / Him
 
+## Github Stats
+
+![Adrian's Github Stats](https://github-readme-stats.vercel.app/api?username=AdrianPilko&show_icons=true&hide_border=true&include_all_commits=true)
+
 My youtube channel [ByteForever](https://youtube.com/channel/UCBJW21wzy1UkwkD2JqefzVg)
 
