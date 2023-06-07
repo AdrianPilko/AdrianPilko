@@ -19,8 +19,8 @@
 [<img align="left" alt="Youtube Logo" src="https://img.icons8.com/fluent/48/000000/youtube.png" aria-hidden="true"/>](https://www.youtube.com/@byteforever7829 "Adrian's Youtube (byte forever)") 
 [itch.io](https://adrianpilko.itch.io/ "Adrian's itch.io")
 
-[<img align="centre" alt="Sinclair ZX81" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Sinclair-ZX81.png"]
-[<img align="centre" alt="Sinclair ZX81" src="https://upload.wikimedia.org/wikipedia/commons/3/33/ZXSpectrum48k.jpg"]
+[<img align="centre" alt="Sinclair ZX81" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Sinclair-ZX81.png"/>]
+[<img align="centre" alt="Sinclair ZX Spectrum" src="https://upload.wikimedia.org/wikipedia/commons/3/33/ZXSpectrum48k.jpg"/>]
 
 
 
