@@ -14,5 +14,7 @@
 
 ![Adrian's Github Stats](https://github-readme-stats.vercel.app/api?username=AdrianPilko&show_icons=true&hide_border=true&include_all_commits=true)
 
-My youtube channel [ByteForever](https://youtube.com/channel/UCBJW21wzy1UkwkD2JqefzVg)
+[<img align="left" alt="Youtube Logo" src="https://img.icons8.com/fluent/48/000000/youtube.png" aria-hidden="true"/>](https://www.youtube.com/@byteforever7829 "Adrian's Youtube (byte forever)") 
+[<img align="left" alt="Itch.io Logo" src="https://icons8.com/icon/b9_NzGK1H_Pe/itch-io" aria-hidden="true"/>](https://adrianpilko.itch.io/ "Adrian's itch.io") 
+
 
