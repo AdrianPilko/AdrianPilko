@@ -6,9 +6,10 @@
 
 
 - 🔭 I’m currently working on Sinclair zx81 assembly language games
-- 🌱 I’m currently learning how todo hires on Sinclair zx81
+- 🌱 I’m currently learning how todo sound on the Sinclair zx81 using ZXpand+ but also doing some pico pi
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), arduino, esp32 micro controllers
 - 😄 Pronouns: He / Him
+- I like to code in C, C++, Z80 assembly, 
 
 ## Github Stats
 
@@ -17,6 +18,9 @@
 [<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" aria-hidden="true"/>](https://twitter.com/adrian_pilko "Adrian's Twitter Handle")
 [<img align="left" alt="Youtube Logo" src="https://img.icons8.com/fluent/48/000000/youtube.png" aria-hidden="true"/>](https://www.youtube.com/@byteforever7829 "Adrian's Youtube (byte forever)") 
 [itch.io](https://adrianpilko.itch.io/ "Adrian's itch.io")
+
+[<img align="centre" alt="Sinclair ZX81" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Sinclair-ZX81.png"]
+[<img align="centre" alt="Sinclair ZX81" src="https://upload.wikimedia.org/wikipedia/commons/3/33/ZXSpectrum48k.jpg"]
 
 
 
