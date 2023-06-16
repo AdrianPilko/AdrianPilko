@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning how todo sound on the Sinclair zx81 using ZXpand+ but also doing some pico pi
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), arduino, esp32 micro controllers
 - 😄 Pronouns: He / Him
-- I like to code in C, C++, Z80 assembly, 
+- I like to code in C, C++, Z80 assembly, rust, python
 
 ## Github Stats
 
