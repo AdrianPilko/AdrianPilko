@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on Sinclair zx81 assembly language games
+- 🔭 Currently working on an Arduino avr-gcc space invaders game, using two pins plus 5v and ground to generate a PAL composite tv signal.
 - 🌱 I’m currently learning how todo sound on the Sinclair zx81 using ZXpand+ but also doing some pico pi
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), arduino, esp32 micro controllers
 - 😄 Pronouns: He / Him
