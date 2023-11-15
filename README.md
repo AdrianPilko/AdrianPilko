@@ -5,11 +5,11 @@
 -->
 
 
-- 🔭 Currently working on an Arduino avr-gcc space invaders game, using two pins plus 5v and ground to generate a PAL composite tv signal.
-- 🌱 I’m currently learning how todo sound on the Sinclair zx81 using ZXpand+ but also doing some pico pi
-- 💬 Ask me about retro computers(c64, zx spectrum, zx81), arduino, esp32 micro controllers
+- 🔭 Currently working on a z80 homebrew computer, designing the pcb and ROM/monitor prgrams, but also an Arduino Mega rom/system emulator for it.
+- 🌱 I enjoy learing about any retro computers or technology, even retro programmable calculators (e.g. TI66, TI66). ANything 8 bit. It makes a refreshing change from the massively complex modern systems - although give me a RP2014 (pi pico) and I'll be happy enough:)
+- 💬 Ask me about retro computers(c64, zx spectrum, zx81), Arduino, RP2014 pi pico or esp32 micro controllers
 - 😄 Pronouns: He / Him
-- I like to code in C, C++, Z80 assembly, rust, python
+- I like to code in C, C++, Z80 assembly, rust, python, even done a tiny amount of Fortran77
 
 ## Github Stats
 
