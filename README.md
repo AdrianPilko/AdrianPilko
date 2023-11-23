@@ -9,7 +9,7 @@
 - 🌱 I enjoy learing about any retro computers or technology, even retro programmable calculators (e.g. TI66, TI66). ANything 8 bit. It makes a refreshing change from the massively complex modern systems - although give me a RP2014 (pi pico) and I'll be happy enough:)
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), Arduino, RP2014 pi pico or esp32 micro controllers
 - 😄 Pronouns: He / Him
-- I like to code in C, C++, Z80 assembly, rust, python, even done a tiny amount of Fortran77
+- I like to code in C, C++, Z80 assembly, 6502 assembly, rust, python, fortran, pascal
 
 ## Github Stats
 
