@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 Currently working on a z80 homebrew computer, designing the pcb and ROM/monitor prgrams, but also an Arduino Mega rom/system emulator for it.
+- 🔭 Currently working on a space shooter game for the zx81, after doing quite a number of other zx81 games published to itch.io download for free.
 - 🌱 I enjoy learing about any retro computers or technology, even retro programmable calculators (e.g. TI66, TI66). ANything 8 bit. It makes a refreshing change from the massively complex modern systems - although give me a RP2014 (pi pico) and I'll be happy enough:)
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), Arduino, RP2014 pi pico or esp32 micro controllers
 - 😄 Pronouns: He / Him
