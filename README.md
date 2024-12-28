@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 Currently working on Rust programs for Advent of Code 2024, as well as a space shooter game for the zx81.
+- 🔭 Currently working on a homebrew z80 computer, ROM monitor code and with interface to arduino for the keyboard (until i build one)
 - One of my favorite coding projects is a Tetris clone for the Sinclair ZX81 that runs in less than 1K of RAM.
 - 🌱 I enjoy learing about any retro computers or technology, even retro programmable calculators (e.g. TI66, TI81). Anything 8 bit. It makes a refreshing change from the massively complex modern systems - although give me a Pi Pico and I'll be happy enough:)
 - 💬 Ask me about retro computers(c64, zx spectrum, zx81), Arduino, Pi Pico or ESP32 micro controllers
